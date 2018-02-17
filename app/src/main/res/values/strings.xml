@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LocaleAndroid</string>
+    <string name="app_name">Portada</string>
+    <string name="bienvenida">Bienvenido a nuestro nuevo sistema</string>
 </resources>
